@@ -1,0 +1,38 @@
+.counter-container {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.disable {
+  display: none;
+}
+.minus-button {
+  margin-right: 10px;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  width: 24px;
+  height: 24px;
+  top: 662px;
+  left: 450px;
+  padding: 3px;
+  gap: 0px;
+  opacity: 0px;
+  border: 1px solid;
+  border-radius: 3px;
+}
+.plus-button {
+  margin-left: 10px;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  width: 24px;
+  height: 24px;
+  top: 662px;
+  left: 450px;
+  padding: 3px;
+  gap: 0px;
+  opacity: 0px;
+  border: 1px solid;
+  border-radius: 3px;
+}

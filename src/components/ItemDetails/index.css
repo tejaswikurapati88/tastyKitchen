@@ -1,0 +1,76 @@
+.list {
+  display: inline;
+  list-style-type: none;
+  margin: 20px;
+}
+.list-rest-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.star-img {
+}
+.rest-cont {
+  width: 174px;
+  height: 78px;
+  top: 755px;
+  left: 341px;
+  gap: 0px;
+  opacity: 0px;
+}
+.rest-img {
+  width: 160px;
+  height: 100px;
+  top: 216px;
+  left: 165px;
+  gap: 0px;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.rating-cont {
+  display: flex;
+  align-items: center;
+}
+.rest-name {
+  font-family: 'DM Sans';
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #334155;
+  margin: 0px;
+}
+.rest-cuisine {
+  font-family: 'DM Sans';
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: #64748b;
+  margin: 0px;
+}
+.rateing-points {
+  font-family: DM Sans;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 18.23px;
+  text-align: left;
+  color: #1e293b;
+  margin: 0px;
+}
+.rateing-num {
+  font-family: DM Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15.62px;
+  text-align: left;
+  color: #64748b;
+  margin: 0px;
+}
+.rest-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}

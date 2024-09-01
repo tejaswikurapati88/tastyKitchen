@@ -1,0 +1,79 @@
+.bg-container-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  align-items: center;
+  background: #f8fafc;
+}
+li {
+  list-style-type: none;
+  text-decoration: none;
+}
+.login-logo-name {
+  text-decoration: none;
+}
+.logo-cont-head {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.header-logo {
+  width: 53px;
+  height: 43px;
+  top: 26px;
+  left: 165px;
+  padding: 2px 0px 0px 0px;
+  gap: 0px;
+  opacity: 0px;
+  margin-right: 15px;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-butn {
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: -0.35555556416511536px;
+  text-align: left;
+  color: #334155;
+  border: none;
+  background-color: transparent;
+  margin-right: 18px;
+  cursor: pointer;
+  outline: none;
+  text-decoration: none;
+}
+.logout-btn {
+  border: none;
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 16px;
+  text-align: left;
+  background: #f7931e;
+  width: (73px);
+  height: (32px);
+  padding: 8px 16px 8px 16px;
+  gap: 8px;
+  border-radius: 8px;
+  opacity: 0px;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
+Link {
+  text-decoration: none;
+}
+.link {
+  text-decoration: none;
+}
