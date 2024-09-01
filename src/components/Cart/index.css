@@ -2,9 +2,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  opacity: 1;
 }
 .linkCart {
   text-decoration: none;
+  opacity: 1;
 }
 .no-items-container {
   display: flex;
@@ -13,6 +15,7 @@
   justify-content: center;
   height: 1000px;
   width: 100%;
+  opacity: 1;
 }
 .empty-heading {
   font-family: DM Sans;
@@ -22,6 +25,7 @@
   text-align: center;
   color: #1e293b;
   margin-bottom: 3px;
+  opacity: 1;
 }
 .empty-para {
   font-family: DM Sans;
@@ -30,6 +34,7 @@
   line-height: 24px;
   text-align: center;
   color: #647488;
+  opacity: 1;
 }
 .order-now-btn {
   width: Hug (93px) px;
@@ -55,6 +60,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  opacity: 1;
 }
 .cart-container {
   border: 1px solid #0b69ff1a;
@@ -74,14 +80,17 @@
   letter-spacing: 0.20000000298023224px;
   text-align: left;
   color: #475569;
+  opacity: 1;
 }
 .cart-items-container {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  opacity: 1;
 }
 .container-list {
   padding-right: 130px;
+  opacity: 1;
 }
 .cart-img {
   width: 136px;
@@ -95,6 +104,7 @@
 }
 .counter-container {
   margin-right: 130px;
+  opacity: 1;
 }
 .name-cart {
   font-family: DM Sans;
@@ -105,10 +115,12 @@
   text-align: left;
   color: #183b56;
   display: inline;
+  opacity: 1;
 }
 .img-cont-cart {
   display: flex;
   align-items: center;
+  opacity: 1;
 }
 .price-cart {
   font-family: DM Sans;
@@ -117,6 +129,7 @@
   line-height: 24px;
   text-align: left;
   color: #ffa412;
+  opacity: 1;
 }
 .hrline {
   border: 1px dashed #cbd2d9;
@@ -131,6 +144,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  opacity: 1;
 }
 .order-total-cart {
   font-family: 'Roboto';
@@ -141,15 +155,18 @@
   margin-right: 120px;
   margin-left: 50px;
   color: #3e4c59;
+  opacity: 1;
 }
 .total {
   font-family: 'DM Sans';
+  opacity: 1;
 }
 .butn-cont-cart {
   display: flex;
   padding-right: 130px;
   justify-content: flex-end;
   padding-bottom: 50px;
+  opacity: 1;
 }
 .place-order-butn {
   cursor: pointer;
