@@ -2,14 +2,15 @@
   display: inline;
   list-style-type: none;
   margin: 20px;
+  opacity: 1;
 }
 .list-rest-cont {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
+  opacity: 1;
 }
-.star-img {
-}
+
 .rest-cont {
   width: 174px;
   height: 78px;
@@ -21,6 +22,7 @@
 .rest-img {
   width: 160px;
   height: 100px;
+  opacity: 1;
   top: 216px;
   left: 165px;
   gap: 0px;
@@ -30,11 +32,13 @@
 .rating-cont {
   display: flex;
   align-items: center;
+  opacity: 1;
 }
 .rest-name {
   font-family: 'DM Sans';
   font-size: 18px;
   font-weight: 700;
+  opacity: 1;
   line-height: 24px;
   letter-spacing: 0.20000000298023224px;
   text-align: left;
@@ -45,6 +49,7 @@
   font-family: 'DM Sans';
   font-size: 14px;
   font-weight: 400;
+  opacity: 1;
   line-height: 24px;
   text-align: left;
   color: #64748b;
@@ -53,6 +58,7 @@
 .rateing-points {
   font-family: DM Sans;
   font-size: 14px;
+  opacity: 1;
   font-weight: 700;
   line-height: 18.23px;
   text-align: left;
@@ -63,6 +69,7 @@
   font-family: DM Sans;
   font-size: 12px;
   font-weight: 400;
+  opacity: 1;
   line-height: 15.62px;
   text-align: left;
   color: #64748b;
@@ -73,4 +80,5 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: space-between;
+  opacity: 1;
 }

@@ -1,26 +1,26 @@
 .place-bg-cont {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center;opacity: 1;
   height: 100vh;
   width: 100%;
 }
 .place-cont {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: center;opacity: 1;
   justify-content: center;
 }
 .place-heading {
   font-family: DM Sans;
-  font-size: 24px;
+  font-size: 24px;opacity: 1;
   font-weight: 500;
   line-height: 32px;
   text-align: center;
   color: #1e293b;
 }
 .place-para {
-  font-family: DM Sans;
+  font-family: DM Sans;opacity: 1;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -61,5 +61,5 @@
   border: none;
 }
 .link-but {
-  text-decoration: none;
+  text-decoration: none;opacity: 1;
 }
