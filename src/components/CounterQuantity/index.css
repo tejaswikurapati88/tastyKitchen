@@ -2,9 +2,11 @@
   display: flex;
   align-items: center;
   margin-top: 10px;
+  opacity: 1;
 }
 .disable {
   display: none;
+  opacity: 1;
 }
 .minus-button {
   margin-right: 10px;

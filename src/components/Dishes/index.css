@@ -1,11 +1,13 @@
 .dish-list {
   list-style-type: none;
   display: inline-block;
+  opacity: 1;
 }
 .dish-list-cont {
   display: flex;
   font-family: 'Roboto';
   align-items: flex-start;
+  opacity: 1;
   margin-right: 50px;
   margin-bottom: 20px;
   margin-left: 20px;
@@ -29,6 +31,7 @@
   font-weight: 700;
   line-height: 24px;
   letter-spacing: 0.20000000298023224px;
+  opacity: 1;
   text-align: left;
 }
 .food-price {
@@ -36,6 +39,7 @@
   font-size: 16px;
   font-weight: 500;
   margin-bottom: 8px;
+  opacity: 1;
   text-align: left;
 }
 .food-rating {
@@ -43,6 +47,7 @@
   font-size: 14px;
   font-weight: 700;
   line-height: 16px;
+  opacity: 1;
   text-align: left;
   display: inline;
   margin-left: 5px;

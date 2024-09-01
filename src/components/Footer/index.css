@@ -1,9 +1,11 @@
 .footer {
   color: #ffffff;
+  opacity: 1;
 }
 .footer-bg-cont {
   display: flex;
   align-items: center;
+  opacity: 1;
   justify-content: center;
   flex-direction: column;
   background-color: #0f172a;
@@ -12,10 +14,12 @@
 }
 .header-logo-footer {
   margin-right: 20px;
+  opacity: 1;
 }
 .footer-para {
   font-family: 'DM Sans';
   font-size: 24px;
+  opacity: 1;
   font-weight: 400;
   line-height: 32px;
   text-align: center;
@@ -25,9 +29,11 @@
   display: flex;
   padding-inline-start: 0px;
   align-items: center;
+  opacity: 1;
 }
 .icons-footer {
   color: #ffffff;
   font-size: 48px;
+  opacity: 1;
   margin: 20px;
 }

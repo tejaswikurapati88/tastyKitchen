@@ -4,6 +4,7 @@
   justify-content: space-between;
   padding-left: 70px;
   padding-right: 70px;
+  opacity: 1;
   padding-top: 10px;
   padding-bottom: 10px;
   width: 100%;
@@ -13,12 +14,15 @@
 li {
   list-style-type: none;
   text-decoration: none;
+  opacity: 1;
 }
 .login-logo-name {
   text-decoration: none;
+  opacity: 1;
 }
 .logo-cont-head {
   display: flex;
+  opacity: 1;
   flex-direction: row;
   align-items: center;
 }
@@ -37,11 +41,13 @@ li {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+  opacity: 1;
 }
 .header-butn {
   font-family: DM Sans;
   font-size: 16px;
   font-weight: 700;
+  opacity: 1;
   line-height: 26px;
   letter-spacing: -0.35555556416511536px;
   text-align: left;
@@ -73,7 +79,9 @@ li {
 }
 Link {
   text-decoration: none;
+  opacity: 1;
 }
 .link {
   text-decoration: none;
+  opacity: 1;
 }
