@@ -26,7 +26,7 @@
   height: 523px;
   margin-right: 50px;
   gap: 0px;
-  opacity: 0px;
+  opacity: 1;
 }
 .login-logo {
   width: 53px;
@@ -35,7 +35,7 @@
   left: 366px;
   padding: 2px 0px 0px 0px;
   gap: 0px;
-  opacity: 0px;
+  opacity: 1;
 }
 .login-logo-name {
   font-family: DM Sans;
@@ -85,7 +85,7 @@
 
   left: 16px;
   gap: 0px;
-  opacity: 0px;
+  opacity: 1;
 }
 .inp-cont {
   width: 360px;
@@ -105,7 +105,7 @@
   top: 685px;
   left: 213px;
   gap: 0px;
-  opacity: 0px;
+  opacity: 1;
 
   cursor: pointer;
   outline: none;

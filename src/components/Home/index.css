@@ -18,7 +18,7 @@
   left: 165px;
   gap: 0px;
   border-radius: 8px;
-  opacity: 0px;
+  opacity: 1;
 }
 .rest-bg-cont {
   display: flex;
@@ -92,7 +92,7 @@
   top: 120px;
   left: 1095px;
   gap: 0px;
-  opacity: 0px;
+  opacity: 1;
   color: #475569;
 }
 .sort-by {
@@ -141,7 +141,7 @@ span {
   top: 644px;
   left: 647px;
   gap: 0px;
-  opacity: 0px;
+  opacity: 1;
   cursor: pointer;
   outline: none;
   margin-left: 15px;
@@ -155,7 +155,7 @@ span {
   left: 8px;
   padding: 2px 5px 2px 4px;
   gap: 0px;
-  opacity: 0px;
+  opacity: 1;
 }
 .para-footer {
   font-family: Bree Serif;

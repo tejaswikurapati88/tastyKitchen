@@ -22,7 +22,7 @@
   left: 165px;
   gap: 0px;
   border-radius: 8px;
-  opacity: 0px;
+  opacity: 1;
   margin-right: 20px;
 }
 .food-name {
@@ -60,7 +60,7 @@
   border-radius: 8px;
   border: 2px solid #ffa412;
   color: #ffa412;
-  opacity: 0px;
+  opacity: 1;
   background-color: transparent;
   margin-top: 10px;
   cursor: pointer;

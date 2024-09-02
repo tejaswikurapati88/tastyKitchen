@@ -1,31 +1,36 @@
 .notfound-bg-cont {
   white-space: 100%;
   display: flex;
-  justify-content: center;opacity: 1;
+  justify-content: center;
+  opacity: 1;
   align-items: center;
   height: 1000px;
 }
 .notfound-cont {
   display: flex;
   flex-direction: column;
-  align-items: center;opacity: 1;
+  align-items: center;
+  opacity: 1;
   justify-content: center;
 }
 .fond-heading {
   font-family: 'DM Sans';
   font-size: 32px;
-  font-weight: 700;opacity: 1;
+  font-weight: 700;
+  opacity: 1;
   line-height: 48px;
   text-align: center;
   color: #1e293b;
 }
 .link-fond {
-  text-decoration: none;opacity: 1;
+  text-decoration: none;
+  opacity: 1;
 }
 .fond-para {
   font-family: DM Sans;
   font-size: 20px;
-  font-weight: 400;opacity: 1;
+  font-weight: 400;
+  opacity: 1;
   line-height: 32px;
   text-align: center;
   color: #475569;
@@ -36,7 +41,7 @@
   padding: 12px 24px 12px 24px;
   gap: 8px;
   border-radius: 12px;
-  opacity: 0px;
+  opacity: 1;
   background: #f7931e;
   font-family: 'DM Sans';
   font-size: 14px;
