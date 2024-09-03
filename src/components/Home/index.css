@@ -10,6 +10,7 @@
 .displayinline {
   display: inline;
   opacity: 1;
+  margin-left: 5px;
 }
 .offer-imgs {
   width: 1110px;
