@@ -41,6 +41,17 @@
   margin-bottom: 8px;
   opacity: 1;
   text-align: left;
+  margin-left: 5px;
+  margin-top: 0px;
+}
+.food-price-rs {
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 8px;
+  opacity: 1;
+  text-align: left;
+  margin-top: 0px;
 }
 .food-rating {
   font-family: DM Sans;
@@ -65,4 +76,9 @@
   margin-top: 10px;
   cursor: pointer;
   outline: none;
+}
+.food-price-cont {
+  display: flex;
+  align-items: center;
+  margin-top: 0px;
 }

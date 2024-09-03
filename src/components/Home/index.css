@@ -45,6 +45,7 @@
 .rest-top {
   width: 100%;
   opacity: 1;
+  margin-top: 20px;
 }
 .sort-by-box {
   border: none;

@@ -40,8 +40,11 @@ class Dishes extends Component {
           <img className="dish-img" src={imageUrl} alt={id} />
           <div className="food-cont">
             <h1 className="food-name">{name}</h1>
-            <p className="food-price">Rs. </p>
-            <p className="food-price">{cost}</p>
+            <div className="food-price-cont">
+              <p className="food-price-rs">Rs. </p>
+              <p className="food-price"> {cost}</p>
+            </div>
+
             <img
               src="https://res.cloudinary.com/dkvptcm7q/image/upload/v1723563874/7_Rating_fyj5pw.png"
               alt="star"

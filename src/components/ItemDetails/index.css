@@ -74,6 +74,8 @@
   text-align: left;
   color: #64748b;
   margin: 0px;
+  margin-left: 10px;
+  margin-top: 3px;
 }
 .rest-cont {
   display: flex;
