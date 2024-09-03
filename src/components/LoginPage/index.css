@@ -70,7 +70,7 @@
   width: 360px;
   height: 40px;
   top: 24px;
-
+  outline: none;
   border-radius: 2px 0px 0px 0px;
 
   background: #e2e8f0;
