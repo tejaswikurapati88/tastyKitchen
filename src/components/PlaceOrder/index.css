@@ -31,24 +31,10 @@
   text-align: center;
   color: #64748b;
 }
-. {
-  width: Hug (131px);
-  height: Hug (32px);
-  padding: 8px 16px 8px 16px;
-  gap: 8px;
-  border-radius: 8px;
-  opacity: 1;
-  background-color: #f7931e;
-  color: #ffffff;
-  font-family: 'DM Sans';
-  font-size: 12px;
-  font-weight: 500;
-  line-height: 16px;
-  text-align: left;
-}
+
 .succbutton {
-  width: Hug (131px);
-  height: Hug (32px);
+  width: 131px;
+  height: 32px;
   padding: 8px 16px 8px 16px;
   gap: 8px;
   border-radius: 8px;
