@@ -1,6 +1,8 @@
 .footer {
   color: #ffffff;
   opacity: 1;
+  font-size: 25px;
+  font-weight: 600;
 }
 .footer-bg-cont {
   display: flex;
@@ -15,6 +17,7 @@
 .header-logo-footer {
   margin-right: 20px;
   opacity: 1;
+  height: 35px;
 }
 .footer-para {
   font-family: 'DM Sans';
@@ -25,6 +28,7 @@
   text-align: center;
   color: #ffffff;
 }
+
 .footer-cont {
   display: flex;
   padding-inline-start: 0px;
@@ -36,4 +40,13 @@
   font-size: 48px;
   opacity: 1;
   margin: 20px;
+}
+@media (max-width: 576px) {
+  .footer-para {
+    font-size: 20px;
+    font-weight: normal;
+  }
+  .icons-footer{
+    font-size: 38px;
+  }
 }

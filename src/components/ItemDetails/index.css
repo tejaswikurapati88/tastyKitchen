@@ -4,6 +4,13 @@
   margin: 20px;
   opacity: 1;
 }
+@media (max-width:576px){
+  .list{
+    margin: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
 .list-rest-cont {
   display: flex;
   flex-direction: row;
